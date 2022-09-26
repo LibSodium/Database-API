@@ -3,4 +3,4 @@
 ## Acquired data from database is QList<QList<QString>>. 
   - QString - is a value. 
   - QList<QString> is a row. 
-  - QList<QList<QStringList>> is a table.
+  - QList<QList<QString>> is a table.
